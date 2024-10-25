@@ -6,3 +6,4 @@ The idea behind this simple bed design stems from the length of available stock.
 
 
 ![cot](https://github.com/user-attachments/assets/f208b08e-b965-43fc-95af-ea557cc19e77)
+Isometric view
